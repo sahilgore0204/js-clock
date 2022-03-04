@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  background-color: #D18CE0;
+}
+
+.c1{
+  font-size: 50px;
+  display: inline-block;
+  width: 206px;
+  height: 116px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -103px;
+  margin-top: -58px;
+}
+.clock{
+  font-family: serif;
+  text-align: center;
+  display: inline-block;
+  width: 200px;
+}
